@@ -25,7 +25,7 @@ You may choose your own colors, but I've provided the colors I've used in
 
 # Hosting
 
-Host it on github pages. Please use an `index.html` as your entry point. Keep
+Host it on github pages. Please use an `../index.html` as your entry point. Keep
 any files that are not html, css or images in a separate branch or a repo as if
 you host those files, they will become available online too.
 
