@@ -1,0 +1,114 @@
+.grass,
+.grass-hover:hover {
+  background-color: mediumseagreen;
+  color: white;
+}
+
+.poison,
+.poison-hover:hover {
+  background-color: mediumpurple;
+  color: white;
+}
+
+.fire,
+.fire-hover:hover {
+  background-color: goldenrod;
+  color: white;
+}
+
+.flying,
+.flying-hover:hover {
+  background-color: steelblue;
+  color: white;
+}
+
+.water,
+.water-hover:hover {
+  background-color: dodgerblue;
+  color: white;
+}
+
+.bug,
+.bug-hover:hover {
+  background-color: brown;
+  color: white;
+}
+
+.normal,
+.normal-hover:hover {
+  background-color: gray;
+  color: white;
+}
+
+.ground,
+.ground-hover:hover {
+  background-color: peru;
+  color: white;
+}
+
+.fairy,
+.fairy-hover:hover {
+  background-color: hotpink;
+  color: white;
+}
+
+.fighting,
+.fighting-hover:hover {
+  background-color: crimson;
+  color: white;
+}
+
+
+.electric,
+.electric-hover:hover {
+  background-color: hsl(51deg 73% 50%);
+  color: white;
+}
+
+.psychic,
+.psychic-hover:hover {
+  background-color: orange;
+  color: white;
+}
+
+.rock,
+.rock-hover:hover {
+  background-color: dimgray;
+  color: white;
+}
+
+.ice,
+.ice-hover:hover {
+  background-color: darkcyan;
+  color: white;
+}
+
+.dragon,
+.dragon-hover:hover {
+  background-color: mediumaquamarine;
+  color: white;
+}
+
+.ghost,
+.ghost-hover:hover {
+  background-color: black;
+  color: white;
+}
+
+.dark,
+.dark-hover:hover {
+  background-color: slategray;
+  color: white;
+}
+
+.steel,
+.steel-hover:hover {
+  background-color: steelblue;
+  color: white;
+}
+
+.all,
+.all-hover:hover:hover {
+  background-color: dimgray;
+  color: white;
+}

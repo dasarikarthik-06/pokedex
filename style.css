@@ -1,0 +1,136 @@
+    * {
+      margin: 0;
+      padding: 0;
+      font-family: sans-serif;
+
+    }
+
+    /* ::-webkit-scrollbar {
+      display: none;
+    } */
+
+    .main {
+      height: 100vh;
+      width: 100vw;
+      gap: 3em;
+    }
+
+    .d-flex {
+      display: flex;
+    }
+
+    .justify-center {
+      justify-content: center;
+    }
+
+    .justify-between {
+      justify-content: space-between;
+    }
+
+
+    .container {
+      flex-wrap: wrap;
+      width: 80%;
+      gap: 2.5em;
+      overflow: scroll;
+    }
+
+    .sidebar {
+      width: 20%;
+      background-color: hsl(0, 0%, 96%);
+    }
+
+    .image img {
+      width: 80%;
+    }
+
+
+    .image {
+      width: 99%;
+      background-color: hsl(0, 0%, 90%);
+    }
+
+    .info {
+      height: 50%;
+      width: 95%;
+      margin: .7em auto;
+    }
+
+    .name {
+      color: hsl(0, 0%, 43%);
+      font-size: 1.2em;
+      font-weight: 800;
+    }
+
+    .name-type {
+      width: 100%;
+      align-items: center;
+    }
+
+    .types {
+      justify-content: end;
+      flex-wrap: wrap;
+    }
+
+    .type,
+    .name {
+      text-transform: capitalize;
+    }
+
+    .type {
+      border-radius: 3px;
+      padding: 0.3em;
+      font-size: .9em;
+      color: whitesmoke;
+      margin-left: 1em;
+    }
+
+
+    .stats {
+      margin-top: 20px;
+    }
+
+    .stat:last-child {
+      border: none;
+    }
+
+    .attribute,
+    .value {
+      color: hsl(0, 0%, 43%);
+    }
+
+    .attribute {
+      font-weight: 600;
+    }
+
+    .stat {
+      margin-top: 6px;
+      padding-bottom: 0.2em;
+      border-bottom: 1px solid hsl(0, 0%, 83%);
+    }
+
+    .card {
+      border-radius: 5px;
+      padding: 10px;
+      height: 29em;
+      width: 18em;
+      border: 1px solid#555;
+      background-color: hsl(0, 0%, 96%);
+    }
+
+    a {
+      text-decoration: none;
+      font-size: 1.7em;
+      padding: .2em;
+      padding-left: 1em;
+      color: hsl(0, 0%, 43%);
+    }
+
+    .sidebar nav,
+    .container {
+      padding-top: 1.5em;
+    }
+
+    .sidebar nav {
+      flex-direction: column;
+    }
